@@ -1,4 +1,4 @@
-# Software Maestro 13기 야간자율학습팀 
+# Software Maestro 13기
 
 `DONE IS BETTER THAN PERFECT`
 
